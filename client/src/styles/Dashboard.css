@@ -1,0 +1,29 @@
+.dashboard-container {
+  padding: 20px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.add-expense-form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+.add-expense-form input,
+.add-expense-form button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.dashboard-content {
+  display: flex;
+  gap: 20px;
+}
+
+.expense-table {
+  flex: 2;
+}
+
+.pie-chart {
+  flex: 1;
+}
